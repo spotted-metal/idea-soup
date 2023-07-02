@@ -12,5 +12,6 @@ When running a program at meta level $n$ (here called the VM), code at meta leve
 
 ## References/Links
 
-* Nada Amin - ['Programming Should Eat Itself'](https://www.youtube.com/watch?v=SrKj4hYic5A), Strange Loop 2014.
+* Nada Amin - '[Programming Should Eat Itself](https://www.youtube.com/watch?v=SrKj4hYic5A)', Strange Loop 2014.
   * Ken'ichi Asai - Black Programming Language, 1996.
+* Nada Amin (2021 Aug 12). '[Reflective Towers of Interpreters](https://blog.sigplan.org/2021/08/12/reflective-towers-of-interpreters/)', SIGPLAN PL Perspectives.
